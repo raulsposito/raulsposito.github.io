@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra RESTful Routes"
-date:       2020-08-23 00:55:59 +0000
+date:       2020-08-22 20:56:00 -0400
 permalink:  sinatra_restful_routes
 ---
 
