@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails Project - BarberWebApp"
-date:       2020-11-18 20:15:21 +0000
+date:       2020-11-18 15:15:22 -0500
 permalink:  rails_project_-_barberwebapp
 ---
 
