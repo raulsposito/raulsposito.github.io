@@ -190,7 +190,7 @@ end
 
 
 
-[](https://media.giphy.com/media/3OyjsGEYml9iazJrDW/giphy.gif)
+![](https://media.giphy.com/media/3OyjsGEYml9iazJrDW/giphy.gif)
 
 Enough backend for a bit. I want to show you the fun part. It's called the React/Redux project for a reason.
 
@@ -397,7 +397,7 @@ There's a lot of magic hidden into that code. After that you're able to access t
 
 
 
-[](https://media.giphy.com/media/551JwsfiorBvNc6fOH/giphy.gif)
+![](https://media.giphy.com/media/551JwsfiorBvNc6fOH/giphy.gif)
 
 
 As I said at the beggining, this is not the final project, it is just one many. I have found a profound love for coding and I can't wait to continue to learn and build new things. Also to revisit and add to this and all the project's I've started at Flatiron. 
