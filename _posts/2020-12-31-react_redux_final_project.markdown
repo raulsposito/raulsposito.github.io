@@ -22,10 +22,6 @@ First the backend. At this point, it feels like home to do "ROR stuff". Creating
 
 For this project I have:
 
-Users === Heroes
-Jobs ===
-Markets === as categories for the job
-Quotes ===  as the actual quotation and application to a job.
 
 ```
 class User < ApplicationRecord
@@ -191,6 +187,8 @@ class Api::V1::SessionsController < ApplicationController
 end
 
 ```
+
+
 
 [](https://media.giphy.com/media/3OyjsGEYml9iazJrDW/giphy.gif)
 
@@ -397,9 +395,12 @@ export default store
 
 There's a lot of magic hidden into that code. After that you're able to access that store and shop for state of any component, pass it into whatever you want to deploy... and it's magic!
 
-[](https://media.giphy.com/media/3OyjsGEYml9iazJrDW/giphy.gif)
 
 
-As I said at the beggining, this is not the final project, it is just one of the firsts of many. I have found a profound love for coding and I can't wait to continue to learn and build new things. Also to revisit and add to this and all the project's I've started at Flatiron. 
+[](https://media.giphy.com/media/551JwsfiorBvNc6fOH/giphy.gif)
+
+
+As I said at the beggining, this is not the final project, it is just one many. I have found a profound love for coding and I can't wait to continue to learn and build new things. Also to revisit and add to this and all the project's I've started at Flatiron. 
+
 
 
